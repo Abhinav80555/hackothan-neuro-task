@@ -4,8 +4,6 @@
 
 NeuroTask is a web application that helps development teams convert Product Requirements Documents (PRDs) into structured, actionable task lists for developers. By leveraging AI, it analyzes PRD content and generates categorized developer tasks, streamlining the pre-PR workflow.
 
-![NeuroTask Application](https://neuro-task.vercel.app/)
-
 ## Features
 
 - **Document Import**: Upload PRDs in multiple formats (PDF, DOCX, TXT, RTF, HTML, MD, CSV, JSON, XML)
