@@ -619,12 +619,12 @@ const App = () => {
                     >
                       Download Tasks as JSON
                     </Button>
-                    <Button
+                    {/* <Button
                       variant="contained"
                       startIcon={<SaveIcon />}
                     >
                       Save Tasks
-                    </Button>
+                    </Button> */}
                   </Box>
                 </>
               ) : (
